@@ -1,0 +1,48 @@
+.nuorod {background-color: gold;
+		color: red;
+		border: solid;
+		border-color: red;
+		border-radius: 10px;
+		padding: 20px;
+		margin: 20px;
+		float: left;
+		text-align: center;
+		text-decoration: none;}
+
+.col-md-12 {background-color: 
+yellow; height: 200px;
+text-align: center;
+margin: 20px;}
+
+.col-md-2{background-color: 
+red; height: 142px; width: 200px;}
+
+p { color: yellow; 
+font-family: 'Pacifico', cursive;}
+
+ul li {list-style-position: outside;
+}
+ol li { 
+
+list-style-type: lower-greek;
+}
+h2 {color:red;}
+li {color: yellow;}
+
+tr td {background-color: green;
+		font-size: 15px;
+		padding: 20px;
+		text-align: center;
+		border: solid gold;
+		border-radius: 10px;
+		color: silver;
+	}
+th {color: red;}
+
+body {/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f3c5bd+16,ff6600+56,c72200+80 */
+background: #f3c5bd; /* Old browsers */
+background: -moz-linear-gradient(top, #f3c5bd 16%, #ff6600 56%, #c72200 80%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #f3c5bd 16%,#ff6600 56%,#c72200 80%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #f3c5bd 16%,#ff6600 56%,#c72200 80%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3c5bd', endColorstr='#c72200',GradientType=0 ); /* IE6-9 */
+	}
