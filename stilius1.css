@@ -37,6 +37,7 @@ p { color: yellow;
 font-family: 'Pacifico', cursive;}
 
 ul li {list-style-position: outside;
+	list-style: square;
 }
 ol li { 
 
@@ -48,6 +49,7 @@ li {color: yellow;}
 tr td {background-color: green;
 		font-size: 15px;
 		padding: 20px;
+		margin: 20px;
 		text-align: center;
 		border: solid gold;
 		border-radius: 10px;
@@ -55,7 +57,7 @@ tr td {background-color: green;
 	}
 	th {color: red;} 
 
-body {/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f3c5bd+16,ff6600+56,c72200+80 */
+body {/* Permalink - use to edit and share this gradienta: http://colorzilla.com/gradient-editor/#f3c5bd+16,ff6600+56,c72200+80 */
 background: #f3c5bd; /* Old browsers */
 background: -moz-linear-gradient(top, #f3c5bd 16%, #ff6600 56%, #c72200 80%); /* FF3.6-15 */
 background: -webkit-linear-gradient(top, #f3c5bd 16%,#ff6600 56%,#c72200 80%); /* Chrome10-25,Safari5.1-6 */
