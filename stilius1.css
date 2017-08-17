@@ -55,7 +55,8 @@ tr td {background-color: green;
 		border-radius: 10px;
 		color: silver;
 	}
-	th {color: red;} 
+	th {color: red;
+		border: solid;} 
 
 body {/* Permalink - use to edit and share this gradienta: http://colorzilla.com/gradient-editor/#f3c5bd+16,ff6600+56,c72200+80 */
 background: #f3c5bd; /* Old browsers */

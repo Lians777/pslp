@@ -5,17 +5,19 @@ width: 100%;
 margin: 20px; 
 text-align: center;
 color: red;
-transform:translate(0%, 0%); }
+transform:translate(0%, 0%);}
 
 
 .b {background-color: 
-red; height: 200px;
+red; 
+height: 200px;
 width: 200px;
 margin: 20px; 
 text-align: center;
 color: yellow;
 transform:translate(-10%, -32%)
 }
+
 .nuorod {background-color: gold;
 		color: red;
 		border: solid;
@@ -26,6 +28,7 @@ transform:translate(-10%, -32%)
 		float: left;
 		text-align: center;
 		text-decoration: none;}
+
 body {/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f3c5bd+16,ff6600+56,c72200+80 */
 background: #f3c5bd; /* Old browsers */
 background: -moz-linear-gradient(top, #f3c5bd 16%, #ff6600 56%, #c72200 80%); /* FF3.6-15 */
