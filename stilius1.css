@@ -1,3 +1,19 @@
+.a{background-color: 
+yellow; height: 200px;
+width: 100%;
+margin: 20px; 
+text-align: center;
+color: red;
+transform:translate(0%, 0%); }
+
+.s {background-color: 
+red; height: 200px;
+width: 200px;
+margin: 20px; 
+text-align: center;
+color: yellow;
+transform:translate(-3%, -36%); }
+
 .nuorod {background-color: gold;
 		color: red;
 		border: solid;
@@ -37,7 +53,7 @@ tr td {background-color: green;
 		border-radius: 10px;
 		color: silver;
 	}
-th {color: red;}
+	th {color: red;} 
 
 body {/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f3c5bd+16,ff6600+56,c72200+80 */
 background: #f3c5bd; /* Old browsers */

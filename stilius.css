@@ -1,14 +1,21 @@
-.col-sm-12 {background-color: 
-yellow; height: 200px;
+.a  {background-color: 
+yellow;
+height: 200px;
+width: 100%;
+margin: 20px; 
 text-align: center;
-margin: 20px;}
+color: red;
+transform:translate(0%, 0%); }
 
-.col-sm-2{background-color: 
-red; height: 142px; width: 200px;
+
+.b {background-color: 
+red; height: 200px;
+width: 200px;
+margin: 20px; 
+text-align: center;
+color: yellow;
+transform:translate(-10%, -32%)
 }
-.col-sm-8 {
-text-align: center;}
-
 .nuorod {background-color: gold;
 		color: red;
 		border: solid;
